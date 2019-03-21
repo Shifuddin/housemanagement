@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: houesemanagement
+Implementation-Version: 0.0.1-presentation
+Built-By: shifuddin
+Implementation-Vendor-Id: 1und1
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/houesemanagement
+Created-By: Maven Integration for Eclipse
+
