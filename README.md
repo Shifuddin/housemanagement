@@ -8,3 +8,21 @@ Please define the work packages for that. The result should be presented during 
 * Retrieve a specific or all stored houses.
 * Delete house.
 * **Update a house.**
+
+# Non Functional Requirements:
+* Implementation with Java, Maven, Spring Boot and Spring Data (JPA, Hibernate etc)
+* Requests must be validated.
+* Use of JAX-RS or MVS-Spring.
+* For tests JUnit or TestNG should be used.
+* **API documentation using swagger.**
+
+# Discussion
+* HouseController
+* HouseService
+* HouseRepository
+* Exception Handler (validation)
+* Output
+* Swagger UI
+* Unit testing
+
+
