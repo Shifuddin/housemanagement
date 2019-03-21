@@ -17,6 +17,7 @@ Please define the work packages for that. The result should be presented during 
 * **API documentation using swagger.**
 
 # Discussion
+* House Model
 * HouseController
 * HouseService
 * HouseRepository
